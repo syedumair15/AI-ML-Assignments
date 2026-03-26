@@ -1,6 +1,7 @@
 # 07_Password_Authentication.py
-# Assignment – Password Authentication
-
+# Assignment: Password Authentication System
+# Description: Strong password validation and login system
+# Author: Syed Umair Ali
 import re
 
 def is_strong(password):
