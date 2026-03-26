@@ -1,10 +1,12 @@
 # AI ML Assignments Portfolio
 
-This repository contains my complete coursework and practical implementations in Artificial Intelligence and Machine Learning.
+This repository showcases my complete work and practical implementations in Artificial Intelligence and Machine Learning.
 
 ## Overview
 
-This portfolio demonstrates my understanding of:
+This portfolio reflects my learning journey from basic Python programming to applying Machine Learning and NLP techniques.
+
+## Skills Demonstrated
 
 Python Programming  
 Data Analysis using Pandas and NumPy  
@@ -12,22 +14,30 @@ Machine Learning Algorithms
 Data Visualization  
 Natural Language Processing  
 
-## Folder Structure
+## Assignments Breakdown
 
 ### February
-Covers fundamentals of Python, logic building, and basic data handling.
+Covers core Python concepts, logic building, and data handling:
+- Password Authentication System  
+- Smart Input Program  
+- Student Data Manager  
+- NumPy Performance Comparison  
+- Data Cleaning and Visualization  
 
 ### March
-Includes Machine Learning concepts, clustering, regression, and NLP tasks.
+Focuses on Machine Learning and NLP:
+- KNN Real Life Applications  
+- House Price Prediction using Linear Regression  
+- Customer Segmentation using K Means  
+- Spam Detection System Design  
+- Text Cleaning and NLP Processing  
 
 ## Key Highlights
 
-Implemented real world problems like:
-- Password Authentication System  
-- Student Data Manager  
-- House Price Prediction  
-- Customer Segmentation using K Means  
-- Text Cleaning for NLP  
+- Implemented real world use cases  
+- Applied Machine Learning algorithms  
+- Built data cleaning and preprocessing pipelines  
+- Designed systems for prediction and classification  
 
 ## Tools and Technologies
 
@@ -37,10 +47,4 @@ Pandas
 Matplotlib  
 Scikit learn  
 
-## Purpose
-
-This repository is created as part of my academic coursework and showcases practical implementation of AI and ML concepts.
-
-## Author
-
-Name: Syed Umair Ali  
+## Repository Structure
